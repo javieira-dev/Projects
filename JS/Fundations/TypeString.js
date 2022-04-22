@@ -39,3 +39,22 @@ console.log(cidade === inputMinusculo); // true
 
 const senha = "minhaSenha123"
 console.log(senha.length) // 13 caracteres
+
+
+////null undefined
+
+let input2 = null;
+
+if (input2 === null) {
+ console.log('não há informação');
+} else {
+ console.log(input2);
+}
+
+
+
+let input3 = null;
+let input4;
+
+console.log(input3); // null
+console.log(input4); // undefined
