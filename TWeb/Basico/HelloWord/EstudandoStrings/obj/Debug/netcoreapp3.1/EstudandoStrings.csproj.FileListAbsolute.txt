@@ -1,0 +1,13 @@
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\bin\Debug\netcoreapp3.1\EstudandoStrings.exe
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\bin\Debug\netcoreapp3.1\EstudandoStrings.deps.json
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\bin\Debug\netcoreapp3.1\EstudandoStrings.runtimeconfig.json
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\bin\Debug\netcoreapp3.1\EstudandoStrings.runtimeconfig.dev.json
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\bin\Debug\netcoreapp3.1\EstudandoStrings.dll
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\bin\Debug\netcoreapp3.1\EstudandoStrings.pdb
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\obj\Debug\netcoreapp3.1\EstudandoStrings.csprojAssemblyReference.cache
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\obj\Debug\netcoreapp3.1\EstudandoStrings.AssemblyInfoInputs.cache
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\obj\Debug\netcoreapp3.1\EstudandoStrings.AssemblyInfo.cs
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\obj\Debug\netcoreapp3.1\EstudandoStrings.csproj.CoreCompileInputs.cache
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\obj\Debug\netcoreapp3.1\EstudandoStrings.dll
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\obj\Debug\netcoreapp3.1\EstudandoStrings.pdb
+C:\Projects\TWeb\Basico\HelloWord\EstudandoStrings\obj\Debug\netcoreapp3.1\EstudandoStrings.genruntimeconfig.cache

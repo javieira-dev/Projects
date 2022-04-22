@@ -1,0 +1,13 @@
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\bin\Debug\netcoreapp3.1\BoxingVsUmboxing.exe
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\bin\Debug\netcoreapp3.1\BoxingVsUmboxing.deps.json
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\bin\Debug\netcoreapp3.1\BoxingVsUmboxing.runtimeconfig.json
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\bin\Debug\netcoreapp3.1\BoxingVsUmboxing.runtimeconfig.dev.json
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\bin\Debug\netcoreapp3.1\BoxingVsUmboxing.dll
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\bin\Debug\netcoreapp3.1\BoxingVsUmboxing.pdb
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\obj\Debug\netcoreapp3.1\BoxingVsUmboxing.csprojAssemblyReference.cache
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\obj\Debug\netcoreapp3.1\BoxingVsUmboxing.AssemblyInfoInputs.cache
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\obj\Debug\netcoreapp3.1\BoxingVsUmboxing.AssemblyInfo.cs
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\obj\Debug\netcoreapp3.1\BoxingVsUmboxing.csproj.CoreCompileInputs.cache
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\obj\Debug\netcoreapp3.1\BoxingVsUmboxing.dll
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\obj\Debug\netcoreapp3.1\BoxingVsUmboxing.pdb
+C:\Projects\TWeb\Basico\HelloWord\BoxingVsUmboxing\obj\Debug\netcoreapp3.1\BoxingVsUmboxing.genruntimeconfig.cache

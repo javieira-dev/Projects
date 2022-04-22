@@ -1,0 +1,15 @@
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.exe
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.deps.json
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.runtimeconfig.json
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.dll
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\bin\Debug\netcoreapp3.1\OperadoresAritmeticos.pdb
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.csprojAssemblyReference.cache
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.frmCalculadora.resources
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.csproj.GenerateResource.cache
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.dll
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.pdb
+C:\Projects\TWeb\Basico\HelloWord\OperadoresAritmeticos\obj\Debug\netcoreapp3.1\OperadoresAritmeticos.genruntimeconfig.cache

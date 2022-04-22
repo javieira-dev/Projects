@@ -1,0 +1,13 @@
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\bin\Debug\netcoreapp3.1\VelueTypeVsReferenceType.exe
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\bin\Debug\netcoreapp3.1\VelueTypeVsReferenceType.deps.json
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\bin\Debug\netcoreapp3.1\VelueTypeVsReferenceType.runtimeconfig.json
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\bin\Debug\netcoreapp3.1\VelueTypeVsReferenceType.runtimeconfig.dev.json
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\bin\Debug\netcoreapp3.1\VelueTypeVsReferenceType.dll
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\bin\Debug\netcoreapp3.1\VelueTypeVsReferenceType.pdb
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\obj\Debug\netcoreapp3.1\VelueTypeVsReferenceType.AssemblyInfoInputs.cache
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\obj\Debug\netcoreapp3.1\VelueTypeVsReferenceType.AssemblyInfo.cs
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\obj\Debug\netcoreapp3.1\VelueTypeVsReferenceType.csproj.CoreCompileInputs.cache
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\obj\Debug\netcoreapp3.1\VelueTypeVsReferenceType.dll
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\obj\Debug\netcoreapp3.1\VelueTypeVsReferenceType.pdb
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\obj\Debug\netcoreapp3.1\VelueTypeVsReferenceType.genruntimeconfig.cache
+C:\Projects\TWeb\Basico\HelloWord\VelueTypeVsReferenceType\obj\Debug\netcoreapp3.1\VelueTypeVsReferenceType.csprojAssemblyReference.cache

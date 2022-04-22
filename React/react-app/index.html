@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>React HCode</title>
+<!-- por questão de performance não usar a tag script no head, usamos aqui só por questões didáticas-->  
+<script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+<script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+<script src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
+
+</head>
+<body>
+     <div id = "app"></div> 
+
+    <script type="text/babel">
+ 
+    //CÓDIGO REACT
+        let teste = "Teste Nome Janaina";
+        class T extends React.Component{
+            render(){
+                return (
+                    <div>
+                       <h1> VAI  {teste}</h1> 
+                    </div>
+                )
+            }
+        }
+ReactDOM.render(<T />, document.querySelector("#app"));
+    </script>
+
+</body>
+</html>
